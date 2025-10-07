@@ -3,5 +3,12 @@ class Example{
 
 private int empid;
 priavate String name;
-private 
+private  double sal;
+
+// adding method from backend
+
+public void show(){
+syso
+
+}
 }
